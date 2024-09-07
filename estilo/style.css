@@ -33,6 +33,7 @@ header{
     min-height: 150px;
     text-align: center;
     padding-top: 30px;
+    padding-bottom: 30px;
 }
 header >h1{
     color: white;
@@ -103,11 +104,6 @@ main a:hover{
     color: var(--cor4);
     border-radius: 3px;
     transition-duration: 0.3s;
-}
-a.img{
-    background-color: white;
-    padding: 0px;
-    margin: 0px;
 }
 main img{
     width: 100%;
